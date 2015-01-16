@@ -6,6 +6,6 @@
   <default revision="refs/heads/master"
            remote="github" />
 
-  <project path="mysample" name="kietlam5014/sample-code"/>
+  <project path="hash" name="jamehuang2012/hash.git"/>
 
 </manifest>
