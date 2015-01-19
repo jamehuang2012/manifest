@@ -7,5 +7,6 @@
            remote="github" />
 
   <project path="hash" name="jamehuang2012/hash.git"/>
+  <project path="driver-2440" name="jamehuang2012/driver-2440.git"/>
 
 </manifest>
